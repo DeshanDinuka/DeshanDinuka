@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height="150" alt="Welcome GIF" />
   <h1>Hi there, I'm Deshan Dinuka 👋</h1>
 </div>
+<div align="center">
+
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF5F6D&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Frontend+Enthusiast;Graphic+Designer)
@@ -16,16 +18,37 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
-const DeshanDinuka = {
-  location: "Sri Lanka 🇱🇰",
-  education: "Institute of Technology, University of Moratuwa",
-  interests: ["Full Stack Development", "Frontend Engineering", "Graphic Design"],
-  languagesAndTools: ["Python", "Java", "JavaScript", "React", "Node.js", "HTML", "CSS", "Tailwind CSS"],
-  philosophy: "Design with logic, code with creativity ✨"
-};
 
+I’m **Deshan Dinuka**, a passionate **Full Stack Developer** from Sri Lanka 🇱🇰 with a strong foundation in both frontend and backend engineering.  
+I love solving real-world problems through clean, scalable code and intuitive design.  
+
+- 🎓 Currently pursuing studies at the **Institute of Technology, University of Moratuwa**  
+- 💡 Interests: Full Stack Development, Frontend Engineering, and Creative UI/UX Design  
+- 🛠 Skilled with: **Python, Java, JavaScript, React, Node.js, HTML, CSS, Tailwind CSS**  
+- ✨ Philosophy: *“Design with logic, code with creativity.”*  
+
+
+
+## 🚀 What I Do
+- 💻 Building responsive web applications with **React** and **Node.js**
+- 🎨 Creating intuitive user interfaces with **Tailwind CSS**
+- 📱 Developing full-stack solutions from concept to deployment
+- 🔧 Always exploring new technologies and best practices
+
+## 📈 Current Goals
+- 🌱 Expanding my expertise in **TypeScript** and **Next.js**
+- 🔍 Diving deeper into **database design** and **API development**
+- 🤝 Contributing to open-source projects
+- 📚 Sharing knowledge through documentation and tutorials
+
+## 📫 Let's Connect!
+- 💼 Open to collaboration and exciting projects
+- 🌟 Always happy to discuss tech, design, and innovation
+
+---
+*"Design with logic, code with creativity"* ✨
 
 
 ## 🛠 Tech Stack
@@ -75,6 +98,7 @@ const DeshanDinuka = {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeshanDinuka&theme=tokyonight&hide_border=true&background=1A1B27&stroke=3ABFEF&ring=3ABFEF&fire=FF9900" height="200" />
 
 </div>
+
 
 
 
